@@ -33,7 +33,7 @@ i18n
 		whitelist: Languages,
 		backend: {
 			// for all available options read the backend's repository readme file
-			loadPath: 'dumihuvud.github.io/locales/{{lng}}/{{ns}}.json',
+			loadPath: `${window.location.pathname}/locales/{{lng}}/{{ns}}.json`,
 		},
 		interpolation: {
 			escapeValue: false, // not needed for react as it escapes by default
