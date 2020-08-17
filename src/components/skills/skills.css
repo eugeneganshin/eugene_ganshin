@@ -1,0 +1,7 @@
+@media screen and (max-width: 450px) {
+	.frontend,
+	.backend,
+	.other_skills {
+		font-size: 12px;
+	}
+}

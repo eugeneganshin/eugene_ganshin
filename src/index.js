@@ -1,14 +1,18 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+
+import App from './components/App';
+import Landing from './components/loading/loading';
+
 import * as serviceWorker from './serviceWorker';
+import './i18n';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+	<Suspense fallback={<Landing />}>
+		<App />
+	</Suspense>,
+	document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change

@@ -1,0 +1,138 @@
+.nav {
+	background-color: #83fec6;
+	position: fixed;
+	display: block;
+	width: 100vw;
+	z-index: 999;
+	height: 60px;
+}
+
+.nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+	background-color: #83fec6;
+}
+
+.nav li a {
+	display: block;
+	padding: 20px 25px;
+	text-decoration: none;
+	color: #3a58e9;
+	font-size: 18px;
+}
+
+.nav li a:hover {
+	background-color: #fffb96;
+}
+
+.nav .logo {
+	display: block;
+	float: left;
+	color: #3a58e9;
+	font-size: 18px;
+	padding: 20px 25px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.nav .menu {
+	clear: both;
+	max-height: 0;
+	transition: max-height 0.2s ease-out;
+}
+
+.nav .menu-icon {
+	cursor: pointer;
+	display: inline-block;
+	float: right;
+	padding: 28px 28px;
+	position: relative;
+	user-select: none;
+}
+
+.nav .menu-icon .navicon {
+	background: #3a58e9;
+	display: block;
+	height: 2px;
+	position: relative;
+	transition: background 0.2s ease-out;
+	width: 18px;
+}
+
+.nav .menu-icon .navicon:before,
+.nav .menu-icon .navicon:after {
+	background: #3a58e9;
+	content: '';
+	display: block;
+	height: 100%;
+	position: absolute;
+	transition: all 0.2s ease-out;
+	width: 100%;
+}
+
+.nav .menu-icon .navicon:before {
+	top: 5px;
+}
+
+.nav .menu-icon .navicon:after {
+	top: -5px;
+}
+
+.nav .menu-btn {
+	display: none;
+}
+
+.nav .menu-btn:checked ~ .menu {
+	max-height: 240px;
+}
+
+.nav .menu-btn:checked ~ .menu-icon .navicon {
+	background: transparent;
+}
+
+.nav .menu-btn:checked ~ .menu-icon .navicon:before {
+	transform: rotate(-45deg);
+}
+
+.nav .menu-btn:checked ~ .menu-icon .navicon:after {
+	transform: rotate(45deg);
+}
+
+.nav .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.nav .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+	top: 0;
+}
+
+@media (min-width: 830px) {
+	.nav {
+		position: absolute;
+		background-color: #fffb96;
+	}
+	.nav ul {
+		background-color: #fffb96;
+	}
+	.nav li {
+		float: left;
+	}
+
+	.nav .menu:last-child {
+		padding-right: 30px;
+	}
+
+	.nav .menu {
+		clear: none;
+		float: right;
+		max-height: none;
+	}
+	.nav .menu-icon {
+		display: none;
+	}
+}
+
+@media (max-width: 360px) {
+	.nav {
+		width: 360px;
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"nav": {
+		"skills": "skills",
+		"projects": "projects",
+		"contact": "contacts",
+		"cv": "resume"
+	},
+	"info": {
+		"greetings": "Hey hey!",
+		"my_name_is": "I am Eugene Ganshin",
+		"what_do_i_do": "I build RESTful API with Node.js"
+	},
+	"skills": {
+		"frontend": "frontend:",
+		"backend": "backend:",
+		"other": "other skills:",
+		"frontend_tech": {
+			"js": "JavaScript(ES6+)",
+			"react": "React / Redux / Redux Thunk / Immer",
+			"template_lang": "PugJS (Jade) / HandleBars"
+		},
+		"backend_tech": {
+			"server": "Node.JS / Express / MongoDB / Mongoose / JWT",
+			"tg": "TelegramAPI / Telegraf",
+			"websocket": "WebSocket / Socket.io"
+		},
+		"other_tech": {
+			"git": "Git / GitHub / Linux",
+			"components": "Web Components",
+			"languages": "Russian (Native) / English B2 / Swedish А2"
+		}
+	},
+	"projects": {
+		"easymail": {
+			"description": "EasyMail - SPA application with which you can send emails with surveys and receive feedback from the client",
+			"tech_stack": "Technology stack: MERN, Redux, Redux-Thunk, SendGrid, Socket.io, Telegram API, Stripe"
+		},
+		"ustours": {
+			"description": "USTours - A website with tours around the USA",
+			"tech_stack": "Technology stack: Express, MongoDB, Pug(Jade), Stripe, Mapbox API"
+		},
+		"burger": {
+			"description": "The Burger Builder - A react application to make custom burgers",
+			"tech_stack": "Technology stack: React, Redux, Redux-Thunk, Firebase, Styled-Components"
+		},
+		"parser": {
+			"description": "Spare parts parser - A console app that parses google results for spare parts catalogue numbers with Serpstack API",
+			"tech_stack": "Technology stack: Node, jsdom, bluebird"
+		},
+		"shared": {
+			"tech_stack": "Technology stack:"
+		}
+	},
+	"contacts": {
+		"email": "e.s.ganshin.work@gmail.com",
+		"tg": "@Dumhuvud",
+		"tel": "+79088364925",
+		"github": "@dumihuvud"
+	},
+	"lang": "ru"
+}
