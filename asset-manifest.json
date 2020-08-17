@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css",
+    "main.js": "/eugene_ganshin/static/js/main.c06a0963.chunk.js",
+    "main.js.map": "/eugene_ganshin/static/js/main.c06a0963.chunk.js.map",
+    "runtime-main.js": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js",
+    "runtime-main.js.map": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js.map",
+    "static/js/2.d19daead.chunk.js": "/eugene_ganshin/static/js/2.d19daead.chunk.js",
+    "static/js/2.d19daead.chunk.js.map": "/eugene_ganshin/static/js/2.d19daead.chunk.js.map",
+    "index.html": "/eugene_ganshin/index.html",
+    "precache-manifest.c5c0eeb6246be45288972e4698e2bee1.js": "/eugene_ganshin/precache-manifest.c5c0eeb6246be45288972e4698e2bee1.js",
+    "service-worker.js": "/eugene_ganshin/service-worker.js",
+    "static/css/main.b1b96ae0.chunk.css.map": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css.map",
+    "static/js/2.d19daead.chunk.js.LICENSE.txt": "/eugene_ganshin/static/js/2.d19daead.chunk.js.LICENSE.txt",
+    "static/media/burger.gif": "/eugene_ganshin/static/media/burger.1603f5f6.gif",
+    "static/media/burger.png": "/eugene_ganshin/static/media/burger.75873930.png",
+    "static/media/custom_no_lips.png": "/eugene_ganshin/static/media/custom_no_lips.c9863db0.png",
+    "static/media/em.gif": "/eugene_ganshin/static/media/em.3fba3bc6.gif",
+    "static/media/em.png": "/eugene_ganshin/static/media/em.6e9612c2.png",
+    "static/media/esganshin.docx": "/eugene_ganshin/static/media/esganshin.1ec3646d.docx",
+    "static/media/getFetch.cjs": "/eugene_ganshin/static/media/getFetch.013f0b90.cjs",
+    "static/media/ut.png": "/eugene_ganshin/static/media/ut.7d00153e.png",
+    "static/media/ut.gif": "/eugene_ganshin/static/media/ut.7e453139.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b8eb26.js",
+    "static/js/2.d19daead.chunk.js",
+    "static/css/main.b1b96ae0.chunk.css",
+    "static/js/main.c06a0963.chunk.js"
+  ]
+}
