@@ -31,7 +31,10 @@ i18n
 		fallbackLng: 'en',
 		debug: true,
 		whitelist: Languages,
-		loadPath: 'dumihuvud.github.io/locales/{{lng}}/{{ns}}.json',
+		backend: {
+			// for all available options read the backend's repository readme file
+			loadPath: 'dumihuvud.github.io/locales/{{lng}}/{{ns}}.json',
+		},
 		interpolation: {
 			escapeValue: false, // not needed for react as it escapes by default
 		},
