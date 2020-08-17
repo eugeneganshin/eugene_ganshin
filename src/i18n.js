@@ -3,18 +3,6 @@ import Backend from 'i18next-http-backend';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import { initReactI18next } from 'react-i18next';
 
-import translationEn from './locales/en/translation.json';
-import translationRu from './locales/ru/translation.json';
-
-const resources = {
-	en: {
-		translation: translationEn,
-	},
-	ru: {
-		translation: translationRu,
-	},
-};
-
 const Languages = ['en', 'ru'];
 i18n
 	// load translation using http -> see /public/locales
