@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31d09011296ee7e745ed96c6880ab6d8",
+    "revision": "c8c709175af9daa839161f93da041432",
     "url": "/eugene_ganshin/index.html"
   },
   {
-    "revision": "8af9cd66dcfe4b96eb99",
+    "revision": "7a936b804f65bfdd817d",
     "url": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css"
   },
   {
-    "revision": "08df0c4a318e3b9a1673",
-    "url": "/eugene_ganshin/static/js/2.d19daead.chunk.js"
+    "revision": "29f8142dc3649ad03646",
+    "url": "/eugene_ganshin/static/js/2.8f27556a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/eugene_ganshin/static/js/2.d19daead.chunk.js.LICENSE.txt"
+    "url": "/eugene_ganshin/static/js/2.8f27556a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8af9cd66dcfe4b96eb99",
-    "url": "/eugene_ganshin/static/js/main.c06a0963.chunk.js"
+    "revision": "7a936b804f65bfdd817d",
+    "url": "/eugene_ganshin/static/js/main.f649e824.chunk.js"
   },
   {
     "revision": "61b395307c3cb724714b",
