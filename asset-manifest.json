@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css",
-    "main.js": "/eugene_ganshin/static/js/main.f649e824.chunk.js",
-    "main.js.map": "/eugene_ganshin/static/js/main.f649e824.chunk.js.map",
+    "main.js": "/eugene_ganshin/static/js/main.e7aacf93.chunk.js",
+    "main.js.map": "/eugene_ganshin/static/js/main.e7aacf93.chunk.js.map",
     "runtime-main.js": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js",
     "runtime-main.js.map": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js.map",
     "static/js/2.8f27556a.chunk.js": "/eugene_ganshin/static/js/2.8f27556a.chunk.js",
     "static/js/2.8f27556a.chunk.js.map": "/eugene_ganshin/static/js/2.8f27556a.chunk.js.map",
     "index.html": "/eugene_ganshin/index.html",
-    "precache-manifest.9364a0ffc79171fbce3688f3a81b643b.js": "/eugene_ganshin/precache-manifest.9364a0ffc79171fbce3688f3a81b643b.js",
+    "precache-manifest.6b093156c6d80c498275882bed61c919.js": "/eugene_ganshin/precache-manifest.6b093156c6d80c498275882bed61c919.js",
     "service-worker.js": "/eugene_ganshin/service-worker.js",
     "static/css/main.b1b96ae0.chunk.css.map": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css.map",
     "static/js/2.8f27556a.chunk.js.LICENSE.txt": "/eugene_ganshin/static/js/2.8f27556a.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.37b8eb26.js",
     "static/js/2.8f27556a.chunk.js",
     "static/css/main.b1b96ae0.chunk.css",
-    "static/js/main.f649e824.chunk.js"
+    "static/js/main.e7aacf93.chunk.js"
   ]
 }

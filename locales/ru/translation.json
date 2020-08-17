@@ -1,0 +1,61 @@
+{
+	"nav": {
+		"skills": "скилы",
+		"projects": "проекты",
+		"contact": "контакты",
+		"cv": "резюме"
+	},
+	"info": {
+		"greetings": "Привет!",
+		"my_name_is": "Меня зовут Евгений Ганьшин",
+		"what_do_i_do": "Я разрабатываю RESTful API на Node.js"
+	},
+	"skills": {
+		"frontend": "фронтенд:",
+		"backend": "бэкенд:",
+		"other": "скилы:",
+		"frontend_tech": {
+			"js": "JavaScript(ES6+)",
+			"react": "React / Redux / Redux Thunk / Immer",
+			"template_lang": "PugJS (Jade) / HandleBars"
+		},
+		"backend_tech": {
+			"server": "Node.JS / Express / MongoDB / Mongoose / JWT",
+			"tg": "TelegramAPI / Telegraf",
+			"websocket": "WebSocket / Socket.io"
+		},
+		"other_tech": {
+			"git": "Git / GitHub / Linux",
+			"components": "Web Components",
+			"languages": "Английский B2 / Шведский А2"
+		}
+	},
+	"projects": {
+		"easymail": {
+			"description": "EasyMail - Приложение, с помощью которого можно отправлять имейлы с опросами и получать фидбэк от клиента.",
+			"tech_stack": "Стэк технологий: MERN, Redux, Redux-Thunk, SendGrid, Socket.io, Telegram API, Stripe"
+		},
+		"ustours": {
+			"description": "USTours - Сайт магазин с турами по США.",
+			"tech_stack": "Стэк технологий: Express, MongoDb, Pug(Jade), Stripe, Mapbox API"
+		},
+		"burger": {
+			"description": "The Burger Builder - Приложение на React, можно самому собрать бургер.",
+			"tech_stack": "Technology stack: React, Redux, Redux-Thunk, Firebase, Styled-Components"
+		},
+		"parser": {
+			"description": "Spare parts parser - Консольное приложения для поиска каталожных номеров в google через Serpstack API",
+			"tech_stack": "Technology stack: Node, jsdom, bluebird"
+		},
+		"shared": {
+			"tech_stack": "Стэк технологий:"
+		}
+	},
+	"contacts": {
+		"email": "e.s.ganshin.work@gmail.com",
+		"tg": "@Dumhuvud",
+		"tel": "+79088364925",
+		"github": "@dumihuvud"
+	},
+	"lang": "en"
+}
