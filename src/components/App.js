@@ -9,7 +9,6 @@ import Contact from './contact/contact';
 import Navigation from './navigation/navigation';
 
 export default function App() {
-	console.log('wtf');
 	return (
 		<div className="App">
 			<div id="north"></div>
