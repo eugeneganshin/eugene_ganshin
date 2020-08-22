@@ -25,7 +25,7 @@ const Projects = () => {
 	);
 
 	const utgithub = (
-		<a href="https://github.com/dumihuvud/Natours.git" target="_blank" key="utgif">
+		<a href="https://github.com/dumihuvud/ustours.git" target="_blank" key="utgif">
 			<img id="github_logo" alt="github logo" src={require('./images/logos/github.png')} />
 		</a>
 	);
