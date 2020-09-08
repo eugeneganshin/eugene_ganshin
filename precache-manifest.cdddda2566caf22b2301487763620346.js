@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "919b9f19e19036a62de74b11a4148eee",
+    "revision": "d0c9a261f50f7bad288b81562b98f270",
     "url": "/eugene_ganshin/index.html"
   },
   {
-    "revision": "72e6bb23ab33cf2ef702",
+    "revision": "d3c5834c2b848a4c95be",
     "url": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css"
   },
   {
-    "revision": "0fb1324acb76f967d19f",
-    "url": "/eugene_ganshin/static/js/2.900de1f9.chunk.js"
+    "revision": "08df0c4a318e3b9a1673",
+    "url": "/eugene_ganshin/static/js/2.d19daead.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/eugene_ganshin/static/js/2.900de1f9.chunk.js.LICENSE.txt"
+    "url": "/eugene_ganshin/static/js/2.d19daead.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72e6bb23ab33cf2ef702",
-    "url": "/eugene_ganshin/static/js/main.4b57b1c4.chunk.js"
+    "revision": "d3c5834c2b848a4c95be",
+    "url": "/eugene_ganshin/static/js/main.ee8bb494.chunk.js"
   },
   {
-    "revision": "b873b50b4510a688a400",
-    "url": "/eugene_ganshin/static/js/runtime-main.88cc00f1.js"
+    "revision": "61b395307c3cb724714b",
+    "url": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js"
   },
   {
     "revision": "1603f5f6f4c6fc46f060f8e618616ed3",
