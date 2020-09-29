@@ -32,7 +32,7 @@
 	},
 	"projects": {
 		"easymail": {
-			"description": "EasyMail - A real time application with which you can send emails with surveys and receive feedback from the client",
+			"description": "EasyMail - SPA application with which you can send emails with surveys and receive feedback from the client",
 			"tech_stack": "Technology stack: MERN, Redux, Redux-Thunk, SendGrid, Socket.io, Telegram API, Stripe"
 		},
 		"ustours": {
