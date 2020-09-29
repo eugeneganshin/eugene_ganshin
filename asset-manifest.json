@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css",
-    "main.js": "/eugene_ganshin/static/js/main.4b57b1c4.chunk.js",
-    "main.js.map": "/eugene_ganshin/static/js/main.4b57b1c4.chunk.js.map",
-    "runtime-main.js": "/eugene_ganshin/static/js/runtime-main.88cc00f1.js",
-    "runtime-main.js.map": "/eugene_ganshin/static/js/runtime-main.88cc00f1.js.map",
-    "static/js/2.900de1f9.chunk.js": "/eugene_ganshin/static/js/2.900de1f9.chunk.js",
-    "static/js/2.900de1f9.chunk.js.map": "/eugene_ganshin/static/js/2.900de1f9.chunk.js.map",
+    "main.js": "/eugene_ganshin/static/js/main.5971f554.chunk.js",
+    "main.js.map": "/eugene_ganshin/static/js/main.5971f554.chunk.js.map",
+    "runtime-main.js": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js",
+    "runtime-main.js.map": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js.map",
+    "static/js/2.d19daead.chunk.js": "/eugene_ganshin/static/js/2.d19daead.chunk.js",
+    "static/js/2.d19daead.chunk.js.map": "/eugene_ganshin/static/js/2.d19daead.chunk.js.map",
     "index.html": "/eugene_ganshin/index.html",
-    "precache-manifest.8d5bfececd86dd793476d66c8591cc1b.js": "/eugene_ganshin/precache-manifest.8d5bfececd86dd793476d66c8591cc1b.js",
+    "precache-manifest.626ad44314136aae927c248048f3e704.js": "/eugene_ganshin/precache-manifest.626ad44314136aae927c248048f3e704.js",
     "service-worker.js": "/eugene_ganshin/service-worker.js",
     "static/css/main.b1b96ae0.chunk.css.map": "/eugene_ganshin/static/css/main.b1b96ae0.chunk.css.map",
-    "static/js/2.900de1f9.chunk.js.LICENSE.txt": "/eugene_ganshin/static/js/2.900de1f9.chunk.js.LICENSE.txt",
+    "static/js/2.d19daead.chunk.js.LICENSE.txt": "/eugene_ganshin/static/js/2.d19daead.chunk.js.LICENSE.txt",
     "static/media/burger.gif": "/eugene_ganshin/static/media/burger.1603f5f6.gif",
     "static/media/burger.png": "/eugene_ganshin/static/media/burger.75873930.png",
     "static/media/custom_no_lips.png": "/eugene_ganshin/static/media/custom_no_lips.c9863db0.png",
@@ -23,9 +23,9 @@
     "static/media/ut.gif": "/eugene_ganshin/static/media/ut.7e453139.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.88cc00f1.js",
-    "static/js/2.900de1f9.chunk.js",
+    "static/js/runtime-main.37b8eb26.js",
+    "static/js/2.d19daead.chunk.js",
     "static/css/main.b1b96ae0.chunk.css",
-    "static/js/main.4b57b1c4.chunk.js"
+    "static/js/main.5971f554.chunk.js"
   ]
 }
