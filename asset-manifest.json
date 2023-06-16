@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/eugene_ganshin/static/css/main.6c665a13.chunk.css",
-    "main.js": "/eugene_ganshin/static/js/main.c60ae4d3.chunk.js",
-    "main.js.map": "/eugene_ganshin/static/js/main.c60ae4d3.chunk.js.map",
-    "runtime-main.js": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js",
-    "runtime-main.js.map": "/eugene_ganshin/static/js/runtime-main.37b8eb26.js.map",
-    "static/js/2.d19daead.chunk.js": "/eugene_ganshin/static/js/2.d19daead.chunk.js",
-    "static/js/2.d19daead.chunk.js.map": "/eugene_ganshin/static/js/2.d19daead.chunk.js.map",
+    "main.css": "/eugene_ganshin/static/css/main.13a5ce3a.chunk.css",
+    "main.js": "/eugene_ganshin/static/js/main.c5437670.chunk.js",
+    "main.js.map": "/eugene_ganshin/static/js/main.c5437670.chunk.js.map",
+    "runtime-main.js": "/eugene_ganshin/static/js/runtime-main.4942afa7.js",
+    "runtime-main.js.map": "/eugene_ganshin/static/js/runtime-main.4942afa7.js.map",
+    "static/js/2.330e262a.chunk.js": "/eugene_ganshin/static/js/2.330e262a.chunk.js",
+    "static/js/2.330e262a.chunk.js.map": "/eugene_ganshin/static/js/2.330e262a.chunk.js.map",
     "index.html": "/eugene_ganshin/index.html",
-    "precache-manifest.ff29650828b561b79e6cb0adeac2164a.js": "/eugene_ganshin/precache-manifest.ff29650828b561b79e6cb0adeac2164a.js",
+    "precache-manifest.df5351ef18995cf8c41dbe333eeb2079.js": "/eugene_ganshin/precache-manifest.df5351ef18995cf8c41dbe333eeb2079.js",
     "service-worker.js": "/eugene_ganshin/service-worker.js",
-    "static/css/main.6c665a13.chunk.css.map": "/eugene_ganshin/static/css/main.6c665a13.chunk.css.map",
-    "static/js/2.d19daead.chunk.js.LICENSE.txt": "/eugene_ganshin/static/js/2.d19daead.chunk.js.LICENSE.txt",
+    "static/css/main.13a5ce3a.chunk.css.map": "/eugene_ganshin/static/css/main.13a5ce3a.chunk.css.map",
+    "static/js/2.330e262a.chunk.js.LICENSE.txt": "/eugene_ganshin/static/js/2.330e262a.chunk.js.LICENSE.txt",
     "static/media/burger.gif": "/eugene_ganshin/static/media/burger.1603f5f6.gif",
     "static/media/burger.png": "/eugene_ganshin/static/media/burger.75873930.png",
     "static/media/custom_no_lips.png": "/eugene_ganshin/static/media/custom_no_lips.c9863db0.png",
     "static/media/em.gif": "/eugene_ganshin/static/media/em.3fba3bc6.gif",
     "static/media/em.png": "/eugene_ganshin/static/media/em.6e9612c2.png",
     "static/media/esganshin.docx": "/eugene_ganshin/static/media/esganshin.1ec3646d.docx",
-    "static/media/getFetch.cjs": "/eugene_ganshin/static/media/getFetch.013f0b90.cjs",
+    "static/media/getFetch.cjs": "/eugene_ganshin/static/media/getFetch.2b2b7da4.cjs",
     "static/media/ut.png": "/eugene_ganshin/static/media/ut.7d00153e.png",
     "static/media/ut.gif": "/eugene_ganshin/static/media/ut.7e453139.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.37b8eb26.js",
-    "static/js/2.d19daead.chunk.js",
-    "static/css/main.6c665a13.chunk.css",
-    "static/js/main.c60ae4d3.chunk.js"
+    "static/js/runtime-main.4942afa7.js",
+    "static/js/2.330e262a.chunk.js",
+    "static/css/main.13a5ce3a.chunk.css",
+    "static/js/main.c5437670.chunk.js"
   ]
 }

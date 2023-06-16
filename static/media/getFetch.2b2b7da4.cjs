@@ -4,11 +4,13 @@ if (typeof fetch === 'function') {
     fetchApi = global.fetch
   } else if (typeof window !== 'undefined' && window.fetch) {
     fetchApi = window.fetch
+  } else {
+    fetchApi = fetch
   }
 }
 
 if (typeof require !== 'undefined' && (typeof window === 'undefined' || typeof window.document === 'undefined')) {
-  var f = fetchApi || require('node-fetch')
+  var f = fetchApi || require('cross-fetch')
   if (f.default) f = f.default
   exports.default = f
   module.exports = exports.default
