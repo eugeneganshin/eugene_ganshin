@@ -8,26 +8,25 @@
 	"info": {
 		"greetings": "Привет!",
 		"my_name_is": "Меня зовут Евгений Ганьшин",
-		"what_do_i_do": "Я разрабатываю RESTful API на Node.js"
+		"what_do_i_do": "Я создаю современное программное обеспечение"
 	},
 	"skills": {
 		"frontend": "фронтенд:",
 		"backend": "бэкенд:",
 		"other": "скилы:",
 		"frontend_tech": {
-			"js": "JavaScript(ES6+)",
-			"react": "React / Redux / Redux Thunk / Immer",
-			"template_lang": "PugJS (Jade) / HandleBars"
+			"react": "React | Redux | Ant Design",
+			"template_lang": "PugJS (Jade)"
 		},
 		"backend_tech": {
-			"server": "Node.JS / Express / MongoDB / Mongoose / JWT",
-			"tg": "TelegramAPI / Telegraf",
-			"websocket": "WebSocket / Socket.io"
+			"server": "Node.JS | NestJS | Azure Functions | Express",
+			"websocket": "WebSocket | Socket.io",
+			"db": "MSSQL | PostgreSQL | MongoDB | Redis"
 		},
 		"other_tech": {
-			"git": "Git / GitHub / Linux",
-			"components": "Web Components",
-			"languages": "Английский B2 / Шведский А2"
+			"git": "Azure | Git | GitHub (CI/CD) | Jest | Linux",
+			"components": "",
+			"languages": "Английский язык C1 | Шведский язык A2"
 		}
 	},
 	"projects": {
@@ -53,9 +52,9 @@
 	},
 	"contacts": {
 		"email": "e.s.ganshin.work@gmail.com",
-		"tg": "@Dumhuvud",
+		"tg": "@eugeneganshin",
 		"tel": "+79088364925",
-		"github": "@dumihuvud"
+		"github": "@eugeneganshin"
 	},
 	"lang": "en"
 }
