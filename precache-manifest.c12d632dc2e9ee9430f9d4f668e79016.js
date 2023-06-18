@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2fa2318bd33f9f147498abce5b672e2",
+    "revision": "b2270308ec12ebfb57d95b459efe0880",
     "url": "/eugene_ganshin/index.html"
   },
   {
-    "revision": "fbc0074e1c230bce4eee",
+    "revision": "efe91339a7a04810f422",
     "url": "/eugene_ganshin/static/css/main.13a5ce3a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eugene_ganshin/static/js/2.330e262a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbc0074e1c230bce4eee",
-    "url": "/eugene_ganshin/static/js/main.c5437670.chunk.js"
+    "revision": "efe91339a7a04810f422",
+    "url": "/eugene_ganshin/static/js/main.05c8f02a.chunk.js"
   },
   {
     "revision": "a6940bc577f3f55b3fe0",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eugene_ganshin/static/media/em.6e9612c2.png"
   },
   {
-    "revision": "1ec3646d8bc71ecfce1c4b355027c397",
-    "url": "/eugene_ganshin/static/media/esganshin.1ec3646d.docx"
-  },
-  {
     "revision": "2b2b7da40e9fe37746226683d444215a",
     "url": "/eugene_ganshin/static/media/getFetch.2b2b7da4.cjs"
+  },
+  {
+    "revision": "8d8907b29ae43b768422a13160043ae7",
+    "url": "/eugene_ganshin/static/media/resume.8d8907b2.pdf"
   },
   {
     "revision": "7d00153ef125796c24f3b08d481e66a4",
